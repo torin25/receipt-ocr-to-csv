@@ -2,7 +2,7 @@ streamlit==1.33.0
 opencv-python==4.6.0.66
 pillow==10.3.0
 pandas==2.2.2
-paddleocr==2.7.0.3
+easyocr==1.7.1
 numpy==1.26.4
 dateparser==1.2.0
 rapidfuzz==3.6.1
